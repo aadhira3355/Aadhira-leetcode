@@ -9,7 +9,7 @@ public:
         }
         else{
              string substr="";
- while (st.top() != "[") {           
+ while (!st.empty() && st.top() != "[") {           
      substr=st.top()+substr;
              st.pop();
              }
