@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
