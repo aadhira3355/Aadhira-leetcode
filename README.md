@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
