@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2087-confirmation-rate) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
