@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
