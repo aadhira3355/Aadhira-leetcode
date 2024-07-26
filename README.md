@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
