@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 ## Stack
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
