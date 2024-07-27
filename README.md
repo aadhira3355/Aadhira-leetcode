@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 ## Stack
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
