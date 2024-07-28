@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0013-roman-to-integer) |
 ## Union Find
 |  |
