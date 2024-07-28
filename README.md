@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0036-valid-sudoku) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0088-merge-sorted-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
