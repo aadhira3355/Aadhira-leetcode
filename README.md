@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0876-hand-of-straights) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
