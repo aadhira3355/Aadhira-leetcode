@@ -1,29 +1,24 @@
-#include <stack>
-#include <algorithm>
-#include <limits.h>
-
 class MinStack {
-private:
-    std::stack<int> stack;
-    std::stack<int> minStack;
-
+    stack<int>stack;
+    std::stack<int>minstack;
 public:
-    MinStack() {
-        // Initialize the stack and minStack as empty stacks
-    }
+    MinStack() {}
 
     void push(int val) {
         stack.push(val);
-        if (minStack.empty() || val <= minStack.top()) {
-            minStack.push(val);
+        if(minstack.empty() || val <=minstack.top()){
+            minstack.push(val);
         }
+        
     }
 
-    void pop() {
-        if (stack.top() == minStack.top()) {
-            minStack.pop();
+     void pop() {
+        if (!stack.empty()) {
+            if (stack.top() == minstack.top()) {
+                minstack.pop();
+            }
+            stack.pop();
         }
-        stack.pop();
     }
 
     int top() {
@@ -31,6 +26,15 @@ public:
     }
 
     int getMin() {
-        return minStack.top();
+        return minstack.top();
     }
 };
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(val);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
