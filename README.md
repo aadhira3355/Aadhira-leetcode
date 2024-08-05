@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
