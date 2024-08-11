@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0226-invert-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0198-house-robber) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
