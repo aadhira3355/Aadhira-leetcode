@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0338-counting-bits) |
 ## Graph
 |  |
 | ------- |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
