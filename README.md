@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
