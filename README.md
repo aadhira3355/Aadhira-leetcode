@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
+| [0952-word-subsets](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0876-hand-of-straights](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
