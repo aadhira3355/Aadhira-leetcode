@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1894-merge-strings-alternately](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
