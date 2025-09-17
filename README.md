@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0871-keys-and-rooms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0226-invert-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
