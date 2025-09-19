@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0338-counting-bits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aadhira3355/Aadhira-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
